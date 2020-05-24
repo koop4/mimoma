@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/mimoma/static/css/main.1413e578.chunk.css",
+    "main.js": "/mimoma/static/js/main.3ed35c1f.chunk.js",
+    "main.js.map": "/mimoma/static/js/main.3ed35c1f.chunk.js.map",
+    "runtime-main.js": "/mimoma/static/js/runtime-main.fae0e54f.js",
+    "runtime-main.js.map": "/mimoma/static/js/runtime-main.fae0e54f.js.map",
+    "static/js/2.588f0e96.chunk.js": "/mimoma/static/js/2.588f0e96.chunk.js",
+    "static/js/2.588f0e96.chunk.js.map": "/mimoma/static/js/2.588f0e96.chunk.js.map",
+    "index.html": "/mimoma/index.html",
+    "precache-manifest.bacaa6bb12b5e823f0aa76430a0d1cdd.js": "/mimoma/precache-manifest.bacaa6bb12b5e823f0aa76430a0d1cdd.js",
+    "service-worker.js": "/mimoma/service-worker.js",
+    "static/css/main.1413e578.chunk.css.map": "/mimoma/static/css/main.1413e578.chunk.css.map",
+    "static/js/2.588f0e96.chunk.js.LICENSE.txt": "/mimoma/static/js/2.588f0e96.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fae0e54f.js",
+    "static/js/2.588f0e96.chunk.js",
+    "static/css/main.1413e578.chunk.css",
+    "static/js/main.3ed35c1f.chunk.js"
+  ]
+}

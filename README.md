@@ -1,7 +1,7 @@
 # MiMoMa
 
 It's a simple Client Movie Manager.  
-[Demo](https://koop4.github.io/mimoma/)
+[Demo](https://robdll.github.io/mimoma/)
 
 ## Prerequisites
 
